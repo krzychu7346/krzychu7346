@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming, front-end technologies.
 - 🌱 I’m currently learning JavaScript, Angular, NodeJs.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me - email : krzychu7346@gmail.com, website: antime.pl
+- 📫 How to reach me - email : krzychu7346@gmail.com, my website: [Antime.pl](//antime.pl)
 
 <!---
 krzychu7346/krzychu7346 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
