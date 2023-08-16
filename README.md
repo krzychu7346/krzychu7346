@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Krzysztof (@krzychu7346) 
 - 👀 I’m interested in programming, front-end technologies.
-- 🌱 I’m currently learning JavaScript, NodeJs and Vue
+- 🌱 I’m currently learning JavaScript, NodeJs and Vue (as of 01.06.2023 UDEMY)
 - 📫 How to reach me - email : krzychu7346@gmail.com, my website: [Antime.pl](//antime.pl)
 
 <!---
